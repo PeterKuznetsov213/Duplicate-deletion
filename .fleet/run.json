@@ -3,7 +3,7 @@
         {
             "type": "python",
             "name": "main.py",
-            "arguments": ["double_deletion_python/main.py"],
+            "arguments": ["main.py"],
         },
 
     ]
